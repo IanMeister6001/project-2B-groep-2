@@ -1,0 +1,26 @@
+
+project 2B/Debug/bin/history.xml
+project 2B/Debug/bin/project 2B.bin
+project 2B/Debug/bin/project 2B.elf
+project 2B/Debug/bin/project 2B.hex
+project 2B/Debug/bin/project 2B.map
+project 2B/Debug/obj/adc.o
+project 2B/Debug/obj/buzzer.o
+project 2B/Debug/obj/dac.o
+project 2B/Debug/obj/delay.o
+project 2B/Debug/obj/history.xml
+project 2B/Debug/obj/keys.o
+project 2B/Debug/obj/lcd.o
+project 2B/Debug/obj/leds.o
+project 2B/Debug/obj/main.o
+project 2B/Debug/obj/misc.o
+project 2B/Debug/obj/printf.o
+project 2B/Debug/obj/startup_stm32f4xx.o
+project 2B/Debug/obj/stm32f4xx_adc.o
+project 2B/Debug/obj/stm32f4xx_gpio.o
+project 2B/Debug/obj/stm32f4xx_rcc.o
+project 2B/Debug/obj/stm32f4xx_usart.o
+project 2B/Debug/obj/syscalls.o
+project 2B/Debug/obj/system_stm32f4xx.o
+project 2B/Debug/obj/uart.o
+project 2B/project 2B.elf.xcodeproj/project.pbxproj
